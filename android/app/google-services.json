@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598899500712",
+    "project_id": "catatanku-5a341",
+    "storage_bucket": "catatanku-5a341.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598899500712:android:e1dba7bab6d564426a049d",
+        "android_client_info": {
+          "package_name": "com.example.catatanku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSA-R6l0Brujx3WaR7YCQuBZXAUTKzGgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
